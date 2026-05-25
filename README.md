@@ -30,6 +30,9 @@ Run all cells in order. The cleaned dataset is saved as `DelayedFlightsClean.par
 6. Do morning flights delay less than evening flights?
 7. Do airlines pad their scheduled times to appear more on-time?
 
+## Poster 
+![Poster of the analysis](Airline_Delay_Poster.png)
+
 ## Dependencies
 
 - pandas, numpy, matplotlib, seaborn, pyarrow
